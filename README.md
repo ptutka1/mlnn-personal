@@ -4,7 +4,7 @@ Machine Learning and Neural Networks
 #### Course Instructors
 
 - Mahmoud Lababidi (<mlab@jhu.edu> | [Twitter](https://twitter.com/lababidi) | [LinkedIn](https://www.linkedin.com/in/mahmoudlababidi) | [Github](https://github.com/lababidi))
-
+tutka edits 
 
 #### Textbooks
 <table>
